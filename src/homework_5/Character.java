@@ -11,14 +11,14 @@ public class Character {
     	this.strength = strength;
     }
     
-    Character health() {
-    	health += 10000000;
-    	return new Character(name, health, strength);
+    Character health(int value) {
+    	health += value;
+    	return this;
     }
     
     Character train() {
-    	strength += 5;
-    	return new Character(name, health, strength);
+    	strength += 5e21;
+    	return this;
     }
     
     void printStats() {
