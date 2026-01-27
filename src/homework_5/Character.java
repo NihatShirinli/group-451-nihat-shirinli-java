@@ -11,8 +11,8 @@ public class Character {
     	this.strength = strength;
     }
     
-    Character train(int healthybro) {
-    	health += healthybro;
+    Character health() {
+    	health += 10000000;
     	return new Character(name, health, strength);
     }
     
