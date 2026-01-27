@@ -23,6 +23,6 @@ public class Homework_4 {
 		//3)
 //			int a = 5;
 //			int b = 0;
-			System.out.println(Math.max(2100, 500, 600, 300));
+			System.out.println(Math.max(2100,300));
       }
 	}
