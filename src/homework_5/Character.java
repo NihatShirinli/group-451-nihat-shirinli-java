@@ -12,7 +12,7 @@ public class Character {
     }
     
     Character health(int value) {
-    	health += value;
+    	health += aaawvalue;
     	return this;
     }
     
