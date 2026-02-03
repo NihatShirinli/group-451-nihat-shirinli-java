@@ -13,6 +13,6 @@ public void printNameLength() {
 public static void main(String[] args) {
     Person person = new Person(null);
 	person.printNameLength();
-	System.out.println("Можно добавить проверку if (name != null) или использовать Optional");
+/// "Можно добавить проверку if (name != null) или использовать Optional"
 }
 }
