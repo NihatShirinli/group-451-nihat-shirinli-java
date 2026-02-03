@@ -1,7 +1,7 @@
 package homework_7;
 
 public class Snake extends Animals {
-	public void tsss() {
-		System.out.println("tsss");
+	public void Poison() {
+		String snakePov = "I Have poison lemme test it rq";
 	}
 }

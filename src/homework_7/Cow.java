@@ -2,6 +2,6 @@ package homework_7;
 
 public class Cow extends Animals {
 	public void muuuu() {
-		System.out.println("MUUUUU");
+		String muuu = "MUUUUU";
 	}
 }
