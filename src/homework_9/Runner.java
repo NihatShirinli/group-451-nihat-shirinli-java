@@ -80,6 +80,13 @@ public class Runner {
         int ab = 7;
          System.out.println(Math.min(a, ab));
          
-         //18
+         //20
+         System.out.println("   *");
+         System.out.println("  ***");
+         System.out.println(" *****");
+         System.out.println("*******");
+
+
+
 	}
 }
